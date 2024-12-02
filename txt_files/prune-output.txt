@@ -1,0 +1,7 @@
+1	GAsa	GAsa	f	s	unk	unk
+2	ko	ko	unk	unk	unk	unk
+3	xeKakara	xeKa	m	s	u	kara
+4	KaragoSa	KaragoSa	m	s	unk	unk
+5	bahuwa	bahuwa	m	s	unk	unk
+6	KZuSa	KZuSa	unk	unk	unk	unk
+7	huA	ho	m	s	a	yA
